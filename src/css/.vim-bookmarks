@@ -1,0 +1,3 @@
+let l:bm_file_version = 1
+let l:bm_sessions = {'default': {'/media/morphin/Data1/projects/frameworks/bootstrap/omnifood/index.html': [{'sign_idx': 9500, 'line_nr': 125, 'content': '        <div class="row">'},{'sign_idx': 9506, 'line_nr': 313, 'content': '              </div>'},{'sign_idx': 9511, 'line_nr': 464, 'content': '    '},{'sign_idx': 9505, 'line_nr': 242, 'content': '            <div class="card">'},],}}
+let l:bm_current_session = 'default'
